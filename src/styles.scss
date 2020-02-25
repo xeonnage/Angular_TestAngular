@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+
+// @import url("https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css");
+
+// body {
+//   background: rgb(255, 229, 229);
+//   padding: 3em;
+//   font-family: 'Raleway','Arial';
+//   color: rgb(0, 0, 0);
+// }
+ul {
+  list-style-type: none;
+  margin: 0 0 2em 0;
+  padding: 0;
+  background: black;
+}
+ul li{
+  display: inline;
+  margin-right: 30px;
+}

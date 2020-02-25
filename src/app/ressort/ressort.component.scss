@@ -1,0 +1,20 @@
+.container {
+  // display: grid;
+  grid-template-columns: 80% auto;
+  background: #acf1da;
+}
+.title{
+
+  background: rgb(0, 0, 0);
+  color: white;
+
+}
+// .col {
+//   padding: .4em 1.3em;
+// }
+.color-dark {
+  background: #2885c4;
+}
+.color-light {
+  background: #57b3f1;
+}
